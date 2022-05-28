@@ -1,0 +1,32 @@
+2022-05-29 00:10:33,226 - test_Carwale.py:[59] - [INFO] - ********Inside Selected Car Test***********
+2022-05-29 00:10:33,968 - BasePage.py:[61] - [INFO] - Move to Element: newCars_XPATH
+2022-05-29 00:10:34,179 - BasePage.py:[25] - [INFO] - Clicking on an Element: findNewCars_XPATH
+2022-05-29 00:10:37,528 - BasePage.py:[25] - [INFO] - Clicking on an Element: Bmw_XPATH
+2022-05-29 00:11:16,249 - test_Carwale.py:[59] - [INFO] - ********Inside Selected Car Test***********
+2022-05-29 00:11:16,545 - BasePage.py:[61] - [INFO] - Move to Element: newCars_XPATH
+2022-05-29 00:11:16,695 - BasePage.py:[25] - [INFO] - Clicking on an Element: findNewCars_XPATH
+2022-05-29 00:11:18,707 - BasePage.py:[25] - [INFO] - Clicking on an Element: honda_XPATH
+2022-05-29 00:11:29,867 - test_Carwale.py:[59] - [INFO] - ********Inside Selected Car Test***********
+2022-05-29 00:11:30,157 - BasePage.py:[61] - [INFO] - Move to Element: newCars_XPATH
+2022-05-29 00:11:30,257 - BasePage.py:[25] - [INFO] - Clicking on an Element: findNewCars_XPATH
+2022-05-29 00:11:32,741 - BasePage.py:[25] - [INFO] - Clicking on an Element: toyota_XPATH
+2022-05-29 00:12:07,896 - test_Carwale.py:[59] - [INFO] - ********Inside Selected Car Test***********
+2022-05-29 00:12:08,228 - BasePage.py:[61] - [INFO] - Move to Element: newCars_XPATH
+2022-05-29 00:12:08,342 - BasePage.py:[25] - [INFO] - Clicking on an Element: findNewCars_XPATH
+2022-05-29 00:12:10,358 - BasePage.py:[25] - [INFO] - Clicking on an Element: hyundai_XPATH
+2022-05-29 00:21:22,891 - test_Carwale.py:[59] - [INFO] - ********Inside Selected Car Test***********
+2022-05-29 00:21:23,288 - BasePage.py:[61] - [INFO] - Move to Element: newCars_XPATH
+2022-05-29 00:21:23,492 - BasePage.py:[25] - [INFO] - Clicking on an Element: findNewCars_XPATH
+2022-05-29 00:21:25,298 - BasePage.py:[25] - [INFO] - Clicking on an Element: Bmw_XPATH
+2022-05-29 00:22:05,489 - test_Carwale.py:[59] - [INFO] - ********Inside Selected Car Test***********
+2022-05-29 00:22:05,876 - BasePage.py:[61] - [INFO] - Move to Element: newCars_XPATH
+2022-05-29 00:22:06,009 - BasePage.py:[25] - [INFO] - Clicking on an Element: findNewCars_XPATH
+2022-05-29 00:22:08,608 - BasePage.py:[25] - [INFO] - Clicking on an Element: honda_XPATH
+2022-05-29 00:23:02,019 - test_Carwale.py:[59] - [INFO] - ********Inside Selected Car Test***********
+2022-05-29 00:23:02,391 - BasePage.py:[61] - [INFO] - Move to Element: newCars_XPATH
+2022-05-29 00:23:03,001 - BasePage.py:[25] - [INFO] - Clicking on an Element: findNewCars_XPATH
+2022-05-29 00:23:05,005 - BasePage.py:[25] - [INFO] - Clicking on an Element: toyota_XPATH
+2022-05-29 00:23:22,362 - test_Carwale.py:[59] - [INFO] - ********Inside Selected Car Test***********
+2022-05-29 00:23:22,756 - BasePage.py:[61] - [INFO] - Move to Element: newCars_XPATH
+2022-05-29 00:23:22,954 - BasePage.py:[25] - [INFO] - Clicking on an Element: findNewCars_XPATH
+2022-05-29 00:23:24,786 - BasePage.py:[25] - [INFO] - Clicking on an Element: hyundai_XPATH
